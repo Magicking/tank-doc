@@ -66,14 +66,15 @@ Ces espaces ont des règles et des conditions bien précises :
 
 
 
-La Source 
+---------
+La Source
+---------
 *On appelle la Source l’espace du rez-de-chaussée*. C’est un espace de convivialité modulable en fonction des événements. 
 Ce lieu est ouvert à toutes et à tous. Vous pouvez y déjeuner, boire un café, travailler, faire des réunions clients… bref c’est polyvalent !
 
 L’espace peut néanmoins être privatisé par des entreprises externes (environ 1 fois par mois).
 Dans ce cas, nous vous demanderons à l’avance d’entrer et de sortir par la porte de gauche. 
 
-------------
 Au 1er étage
 ------------
 
@@ -83,7 +84,6 @@ Ces salles sont accessibles à toutes les personnes de l’immeuble. Chacun peut
 Il faut se créer un compte et réserver à partir de l’agenda partagé sur booking.letank.fr 
 Sauf rares exceptions (consulter la team Le Tank), chaque réunion *ne doit pas dépasser 2h00* pour que tout le monde puisse en profiter pleinement
 
------------------
 Au 3e et 4e étage
 -----------------
 
