@@ -11,7 +11,7 @@
 5. Build the documentation docker image using
 ```docker-compose build documentation```
 6. Edit files in this reposity
-7. Build the documentation using
+7. Build the documentation website using
 ```docker-compose run --rm --user=`id -u` documentation```
 
 The result build will be placed under the directory build/html
