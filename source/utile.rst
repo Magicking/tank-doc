@@ -92,7 +92,7 @@ Ces salles peuvent être utilisées par Spintank et les occupants du 4e étage.
 
 Pour les réserver :  
 
- - Se créer un compte sur Yarooms.com 
+ - Se créer un compte sur https://letank.yarooms.com
  - Réserver un créneau sur l’agenda partagé
 
 ------------
