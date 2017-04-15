@@ -109,14 +109,14 @@ LE WIFI
 =======
 
 **1er et 4ème étage**
-GUESTANK
+SSID : GUESTANK
 Le mot de passe est encadré à la source.
 
 **2 et 3ème étage**
-Code : SPINTANK
+SSID : SPINTANK
 
 **Wifi pour les invités, clients, réunions**
-Code : EVENTANK
+SSID : EVENTANK
 MDP : letank24
 
 =====
