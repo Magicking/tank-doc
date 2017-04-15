@@ -3,17 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Bienvenue sur la docuementation du Tank
-=======================================
+Bienvenue sur la documentation du Tank
+======================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contenus:
+   :maxdepth: 3
 
    utile
 
-Tables et index
-===============
-
-* :ref:`genindex`
 * :ref:`search`
