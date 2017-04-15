@@ -41,14 +41,14 @@ Quand vous arrivez au Tank, l’équipe vous remet un badge qui vous donne accè
  - À l’ascenseur 
  - Aux portes de l’étage où vous travaillez 
 
-*Important* : Si vous êtes une équipe, le nombre de badges équivaut au nombre de postes que vous louez au Tank. 
-*1 poste = 1 badge*
+**Important** : Si vous êtes une équipe, le nombre de badges équivaut au nombre de postes que vous louez au Tank. 
+**1 poste = 1 badge**
 
-*Si votre badge est désactivé* :  c’est une mise à jour. N’hésitez pas à demander à Samy ou Joséphine de le réactiver. 
+**Si votre badge est désactivé** :  c’est une mise à jour. N’hésitez pas à demander à Samy ou Joséphine de le réactiver. 
 
 Le badge est votre sésame pour circuler librement dans Le Tank. Si vous le perdez, il faut en informer la team très rapidement.  
-Les portes de vos étages doivent en permanence être fermées, *vous êtes tous responsables de cette sécurité*. 
-*Assurez-vous donc de toujours avoir votre badge sur vous*.
+Les portes de vos étages doivent en permanence être fermées, **vous êtes tous responsables de cette sécurité**. 
+**Assurez-vous donc de toujours avoir votre badge sur vous**.
 
 ===========
 LES ESPACES
@@ -59,7 +59,7 @@ Au Tank, vous partagez vos bureaux avec :
  - Spintank, agence de communication numérique située au 2 et 3e étage de l’immeuble  
  - Des freelances, startups et entrepeneurs au 1er et au 4e
 
-En plus de votre bureau, il existe *8 espaces* pour travailler, seul, à plusieurs ou avec des clients. 
+En plus de votre bureau, il existe **8 espaces** pour travailler, seul, à plusieurs ou avec des clients. 
 
 
 Ces espaces ont des règles et des conditions bien précises : 
@@ -69,7 +69,7 @@ Ces espaces ont des règles et des conditions bien précises :
 ---------
 La Source
 ---------
-*On appelle la Source l’espace du rez-de-chaussée*. C’est un espace de convivialité modulable en fonction des événements. 
+**On appelle la Source l’espace du rez-de-chaussée**. C’est un espace de convivialité modulable en fonction des événements. 
 Ce lieu est ouvert à toutes et à tous. Vous pouvez y déjeuner, boire un café, travailler, faire des réunions clients… bref c’est polyvalent !
 
 L’espace peut néanmoins être privatisé par des entreprises externes (environ 1 fois par mois).
@@ -78,11 +78,11 @@ Dans ce cas, nous vous demanderons à l’avance d’entrer et de sortir par la 
 Au 1er étage
 ------------
 
-Salles _danah_, _Marissa_ et _Tina_
+Salles *danah*, *Marissa* et *Tina*
 Ces salles sont accessibles à toutes les personnes de l’immeuble. Chacun peut se sentir libre de réserver l’une d’entre elles à condition de bien respecter ces deux conditions : 
 
 Il faut se créer un compte et réserver à partir de l’agenda partagé sur booking.letank.fr 
-Sauf rares exceptions (consulter la team Le Tank), chaque réunion *ne doit pas dépasser 2h00* pour que tout le monde puisse en profiter pleinement
+Sauf rares exceptions (consulter la team Le Tank), chaque réunion **ne doit pas dépasser 2h00** pour que tout le monde puisse en profiter pleinement
 
 Au 3e et 4e étage
 -----------------
@@ -108,21 +108,21 @@ L’agenda partagé vous permet de connaître sa disponibilité : https://calend
 LE WIFI
 =======
 
-*1er et 4ème étage*
+**1er et 4ème étage**
 GUESTANK
 Le mot de passe est encadré à la source.
 
-*2 et 3ème étage*
+**2 et 3ème étage**
 Code : SPINTANK
 
-*Wifi pour les invités, clients, réunions*
+**Wifi pour les invités, clients, réunions**
 Code : EVENTANK
 MDP : letank24
 
 =====
 SLACK
 =====
-Slack est une plateforme de chat interne. *Au Tank, il très important d’être dessus*. Cela vous aidera à être au courant de toutes les informations importantes et à participer à la vie du lieu. 
+Slack est une plateforme de chat interne. **Au Tank, il très important d’être dessus**. Cela vous aidera à être au courant de toutes les informations importantes et à participer à la vie du lieu. 
 
 À votre arrivée, une personne de la Team Tank ou votre chef de pôle vous envoie un mail pour vous inscrire. Ensuite la marche à suivre est très simple. 
 
@@ -158,20 +158,20 @@ LES STOCKS
 ----------
 Au Tank, nous sommes plus de 100 personnes à travailler ensemble tous les jours. Les emplacements et les quantités des stocks sont donc importants à prendre en compte. 
 
- - *Les grains de café*
+ - **Les grains de café**
 
 Ils sont situés dans la cuisine du RDC, au fond à droite, sur le dernier étage du rayonnage
 Si jamais vous ne trouvez pas, demandez à Samy, Joséphine ou Damien. 
 
- - *Les cartouches d’imprimante et le papier*
+ - **Les cartouches d’imprimante et le papier**
 
 Tout est stocké dans l’armoire située au rez-de-chaussée, au bout des tables blanches. 
 
- - *Le liquide vaisselle et les nettoyants des machine à café*
+ - **Le liquide vaisselle et les nettoyants des machine à café**
 
 Sous l’évier dans la cuisine du RDC
 
- - *Les éponges*
+ - **Les éponges**
 
 Sous l’évier dans la cuisine du RDC
 
@@ -183,11 +183,11 @@ Quand tu quittes ton étage et que tu es le dernier :
  - Veille bien à éteindre toutes les lumières et ventilateurs ainsi qu'à fermer les fenêtres et les portes palières. 
  - Passe aussi un petit message sur Slack pour savoir si il reste du monde. 
 
-*Si personne ne répond, ça veut dire que tu es le dernier et que tu devras donc mettre l'alarme*.
+**Si personne ne répond, ça veut dire que tu es le dernier et que tu devras donc mettre l'alarme**.
 
-Pour activer l'alarme, il faut appuyer *sur le petit bonhomme hors de la maison du boîtier situé dans le sas d'entrée*.
+Pour activer l'alarme, il faut appuyer **sur le petit bonhomme hors de la maison du boîtier situé dans le sas d'entrée**.
 Une fois qu'elle est activée, tu peux partir en claquant simplement la porte
-Tous les matins, la femme de ménage désactive l'alarme. *Pas de souci à te faire sur ce sujet donc, en semaine*.
+Tous les matins, la femme de ménage désactive l'alarme. **Pas de souci à te faire sur ce sujet donc, en semaine**.
 
 Le week-end par contre, il faudra que tu la désactives si tu viens bosser.
-*N'hésites pas à venir nous voir pour que l'on te donne les codes*.
+**N'hésites pas à venir nous voir pour que l'on te donne les codes**.
